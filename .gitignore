@@ -3,6 +3,19 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Build & binaries
+x64/
+TP2_OpenCV/x64/
+TP2_OpenCV/Debug/
+TP2_OpenCV/Release/
+TP2_OpenCV/*.exe
+TP2_OpenCV/*.pdb
+TP2_OpenCV/*.obj
+*.pdb
+*.obj
+*.exe
+
+
 # User-specific files
 *.rsuser
 *.suo
